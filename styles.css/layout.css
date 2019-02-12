@@ -1,4 +1,4 @@
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 480px) {
 
   * {
     border: 1px solid black;
@@ -22,19 +22,16 @@
   .fourth {
     height: 250px;
     width: 240px;
-    float: left;
   }
 
   .fifth {
     height: 250px;
     width: 240px;
-    float: left;
   }
 
 
   /* changing from fifth to sixth */
   .sixth {
-    clear: both;
     height: 80px;
     width: 480px;
   }
