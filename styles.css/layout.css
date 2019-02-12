@@ -1,0 +1,41 @@
+@media only screen and (max-width: 768px) {
+
+  * {
+    border: 1px solid black;
+  }
+
+  .first {
+    height: 75px;
+    width: 480px;
+  }
+
+  .second {
+    height: 150px;
+    width: 480px;
+  }
+
+  .third {
+    height: 125px;
+    width: 480px;
+  }
+
+  .fourth {
+    height: 250px;
+    width: 240px;
+    float: left;
+  }
+
+  .fifth {
+    height: 250px;
+    width: 240px;
+    float: left;
+  }
+
+
+  /* changing from fifth to sixth */
+  .sixth {
+    clear: both;
+    height: 80px;
+    width: 480px;
+  }
+}
