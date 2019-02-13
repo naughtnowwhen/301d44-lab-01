@@ -1,12 +1,10 @@
-* {
-  box-sizing: border-box;
-  }
 
-  * {
-    background-color: lightgrey;
-  }
 
-  div{
-    float: left;
-    margin : 0 auto;
-  }
+div {
+  color: lightgrey;
+  border: 1px solid black;
+}
+
+body {
+  width : 483px;
+}
