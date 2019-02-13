@@ -1,4 +1,36 @@
 
-  div {
-    text-align: center;
-  }
+
+ .first {
+  text-align: center;
+  line-height: 100px;
+}
+
+.second {
+  text-align: center;
+  line-height: 500px;
+}
+
+
+.third {
+  line-height: 200px;
+  text-align: center;
+}
+
+
+.fourth {
+  line-height: 250px;
+  text-align: center;
+}
+
+
+.fifth {
+  line-height: 250px;
+  text-align: center;
+}
+
+
+.sixth {
+  line-height: 150px;
+  text-align: center;
+}
+
